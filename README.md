@@ -3,3 +3,7 @@ Dishwasher Automatic Network Control is a remote control and monitoring solution
 
 ## Update me with more info
 *  Ill do it later
+
+## Contributers
+* @dloman
+* mkapuscik
